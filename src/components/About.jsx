@@ -8,9 +8,9 @@ function About(){
     return(
         <section>
             <div className="d-flex flex-row justify-content-center text-center gap-4 mt-4 mb-4 pb-4">
-             <Awards number="100" text='Customers'/>
+             <Awards number="100" text='Users'/>
              <Awards number="150" text='Projects'/>
-             <Awards number="100" text='Progress'/>
+             <Awards number="100" text='Partners'/>
             </div>
             <section className="mt-4 mb-4 pt-4">
             <div className="mt-4 mx-auto p-4">
