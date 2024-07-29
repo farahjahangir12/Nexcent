@@ -149,7 +149,7 @@ input{
   font-size:18px;
 }
 
-@media (min-width:768px){
+@media (max-width:768px){
 .size{
   font-size:12px;
 }
