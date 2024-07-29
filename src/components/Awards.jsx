@@ -7,7 +7,7 @@ function Awards({number,text}){
   <h5 className="card-title fs-2 fw-bold">
   <CountUp end={number} duration={2.75} />
   </h5>
-    <p className="card-subtitle mb-2">{text}</p>  
+    <p className="card-subtitle mb-2 text-left text-md-center size">{text}</p>  
   </div>
 </div>
 
