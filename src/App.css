@@ -145,6 +145,12 @@ input{
   color:white;
 }
 
-.c-page{
-  background-image:url("src/assets/images/Untitled design.png");
+.size{
+  font-size:18px;
+}
+
+@media (min-width:768px){
+.size{
+  font-size:12px;
+}
 }
