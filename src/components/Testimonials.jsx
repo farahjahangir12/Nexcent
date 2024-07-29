@@ -6,7 +6,7 @@ function Testimonials() {
         <>
             <section className="text-container mt-3 mb-4 pt-4">
                 <h1 className="fs-1 fw-bold text-center">Caring is the new marketing</h1>
-                <div className="d-flex justify-content-center w-50">
+                <div className="d-flex justify-content-center">
                     <p className="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae tempore officia ad fugit dicta doloribus maxime    
                      deserunt recusandae in, natus dolores at, illo molestiae. Minus provident error incidunt molestiae architecto!</p>
                 </div>
