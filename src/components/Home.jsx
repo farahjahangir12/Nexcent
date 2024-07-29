@@ -23,7 +23,7 @@ function Home(){
       <Testimonials/>
       <Message/>
       <Contacts/>
-        <section/>
+    </section>
     );
 }
  export default Home;
