@@ -13,7 +13,7 @@ import '../App.css'
 
 function Home(){
     return(
-        <>
+        <section>
       <Hero/>
       <Services/>
       <Feature image={frame} description={"The unseen of spending three years at Pixelgrade"} />
@@ -21,7 +21,7 @@ function Home(){
       <Feature image={login} description={"How to design your site footer like we did"} />
       <Product/>
      
-        </>
+        <section/>
     );
 }
  export default Home;
