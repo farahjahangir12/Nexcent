@@ -1,0 +1,150 @@
+.bg-color{
+  background-color:#4CAF4F;
+  border:2px solid #4CAF4F;
+  border-radius:3px;
+  padding:4px;
+  text-decoration: none;
+  color:white;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+span{
+  color:#4CAF4F;
+}
+
+.theme {
+  border-radius: 4px;
+  width: 6px;
+  height: 6px;
+}
+
+.theme:nth-child(1){
+  background-color: #4CAF4F;
+}
+.theme:nth-child(2){
+  background-color: #A5D6A7;
+}
+.theme:nth-child(3){
+  background-color: #C8E6C9;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  padding: 3px;
+  gap: 4px;
+}
+
+h3{
+  line-height: 0ch;
+}
+
+.scards{
+  width:18rem;
+  height:200px;
+}
+
+.icons{
+  height:60px;
+  width:60px;
+}
+
+.description{
+  font-size:14px;
+}
+
+.s-icons{
+  height:45px;
+  width:45px;
+}
+
+.text{
+  font-size:12px;
+  line-height:0;
+}
+
+.color{
+  color: white;
+}
+
+.behind{
+  z-index:1;
+ 
+}
+
+.above{
+  background: white;
+  margin:0 auto;
+  position:absolute;
+  top:-100px; 
+  z-index: 2;
+}
+
+.cards{
+  width:16rem;
+  height:200px;
+  overflow: hidden;
+}
+
+.button{
+  color:white;
+  background-color: #4CAF4F;
+  border: 2px solid  #4CAF4F;
+  border-radius: 3px;
+  width:200px;
+  padding:4px;
+  margin-top: 2px;
+
+}
+
+.font{
+ color:white;
+}
+
+.title{
+  font-size:50px;
+  padding:10px;
+}
+
+.style{
+  color:white;
+  font-size:12px;
+  
+}
+
+
+li{
+  color:white;
+  list-style: none;
+  font-size: 14px;
+  padding:3px;
+
+}
+
+.headings{
+  color:white;
+  text-align: left;
+  margin:0 auto;
+}
+.login{
+  color:#4CAF4F;
+  text-decoration:none;
+ }
+input{
+  background-color: #4D4D4D;
+  border: 1px solid #4D4D4D;
+  border-radius: 3px;
+}
+
+ .flip-1,.flip-2{
+  width:250px;
+  height:250px;
+  color:white;
+}
+
+.c-page{
+  background-image:url("src/assets/images/Untitled design.png");
+}
