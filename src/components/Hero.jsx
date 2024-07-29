@@ -10,7 +10,7 @@ return(
         <div className="d-flex flex-column align-items-center align-items-md-start">
          <h1 className="display-4 fw-semibold ml-md-0 ml-3">Lessons and insights<br/>
         <span>from 8 years</span></h1>
-         <p className='pt-2 pb-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+         <p className='pt-2 pb-4 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
          <button className="bg-color w-50" type="submit">Register</button>
         </div>
         <div className="d-none d-md-block">
