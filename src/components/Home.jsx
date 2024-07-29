@@ -20,8 +20,6 @@ function Home(){
       <Work/>
       <Feature image={login} description={"How to design your site footer like we did"} />
       <Product/>
-      <Testimonials/>
-      <Message/>
       <Contacts/>
         </>
     );
