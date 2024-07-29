@@ -4,7 +4,7 @@ import { image1, image2, image3 } from "../assets/images";
 function Testimonials() {
     return (
         <>
-            <section className="text-container mt-3 mb-4 pt-4">
+            <section className="text-container mt-3 mb-4 pt-4 pl-2 pr-2">
                 <h1 className="fs-1 fw-bold text-center">Caring is the new marketing</h1>
                 <div className="d-flex justify-content-center">
                     <p className="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae tempore officia ad fugit dicta doloribus maxime    
