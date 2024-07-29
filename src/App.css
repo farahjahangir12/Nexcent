@@ -7,7 +7,7 @@
   color:white;
 }
 
-body{
+body,section,nav{
   overflow-x: hidden;
 }
 
