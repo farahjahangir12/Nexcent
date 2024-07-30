@@ -11,7 +11,8 @@ const [message,setMessage]=useState('');
 const handleSubmit=(e)=>{
     e.preventDefault();
     const userDetails={name,email,message};
-    console.log(userDetails)
+    console.log(userDetails);
+    alert("Message sent successfully!");
 }
 
 
